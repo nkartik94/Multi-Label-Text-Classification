@@ -8,7 +8,7 @@ Known as Multi-Label Classification, it is one such task which is omnipresent in
 In this project, using a Kaggle problem as example, we explore different aspects of multi-label classification.
 
 ### Bird’s-eye view of the project:
-* Part-1: Multi-label classification theory.
+* Part-1: Overview of Multi-label classification.
 * Part-2: Problem definition & evaluation metrics.
 * Part-3: Exploratory data analysis (EDA).
 * Part-4: Data pre-processing.
