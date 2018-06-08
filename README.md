@@ -7,4 +7,4 @@ Known as Multi-Label Classification, it is one such task which is omnipresent in
 
 In this project, using a Kaggle problem as example, we explore different aspects of multi-label classification.
 
-Detailed blog about this project can be found here []
+Detailed blog about this project can be found here [https://medium.com/@nkartik94/journey-to-the-center-of-multi-label-classification-384c40229bff]
